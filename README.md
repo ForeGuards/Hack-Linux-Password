@@ -11,7 +11,7 @@ Give the following commands in the terminal:
 
 # Or the installation guide on my Blog:
 
-[Whitehathakcer](http://whitehathacker.info/2018/01/15/hack-linux-password-with-python/)
+[Whitehathacker](http://whitehathacker.info/2018/01/15/hack-linux-password-with-python/)
 
 # REMEMBER
 Use this for educational and ethical hacking purposes, as well as the sake of learning code and security-oriented practices. 
