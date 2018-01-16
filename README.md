@@ -13,5 +13,9 @@ Give the following commands in the terminal:
 
 [Whitehathacker](http://whitehathacker.info/2018/01/15/hack-linux-password-with-python/)
 
+# Computation Time of a BruteForce Attack
+
+![Time to BruteForce](http://whitehathacker.info/wp-content/uploads/2018/01/computation_time_bruteforce.png)
+
 # REMEMBER
 Use this for educational and ethical hacking purposes, as well as the sake of learning code and security-oriented practices. 
